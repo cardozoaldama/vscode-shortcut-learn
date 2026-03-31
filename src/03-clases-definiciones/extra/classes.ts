@@ -1,5 +1,5 @@
 
-export class SuperHero {
+export class Heroe {
 
     name   : string = '';
     power  : string = '';
