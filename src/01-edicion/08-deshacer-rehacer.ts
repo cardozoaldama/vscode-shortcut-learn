@@ -9,6 +9,9 @@
 //*        Ctrl + Shift + Z
 //*
 
+function holaMundo() {
+    return 'Hi there';
+}
 
 //! Demo
 // function holaMundo() {
